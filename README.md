@@ -2,26 +2,29 @@
 ---
 ## What is the Zipperer?
 
-Our device aims to solve an eternal issue: trying to zip up the back of your dress to no avail. Using a geared motor system, we created an automated zipper pull-up system that allows you to zip up the backs of your clothes without any one else's help. 
+Our device aims to solve an eternal issue: trying to zip up the back of your dress to no avail. Using a geared motor system, we created an automated zipper pull-up system that allows you to zip up the backs of your clothes without anyone else's help. This project can also be manipulated to zip up other items, such as suitcases!
 
 
-Using a DC motor, several gears, a cord, and a repurposed clip, our mechanism clips onto the back of your collar and attaches to the zipper of your clothing item, and winds up the cord to close the back of your clothing. Using 3D printing, we created a custon case labeled "Zipperer" that holds the controller for the device, and another case for the motor to clip to your dressing item.
+Using a DC motor, several gears, a cord, and a repurposed clip, our mechanism latches onto the back of your collar and attaches to the zipper of your clothing item. It then winds up the cord to close the back of your clothing. Using 3D printing, we created a custom case labeled "Zipperer" that holds the controller for the device, and another case for the motor to clip to your dressing item.
 
 ---
 ## Images:
 ### our CAD pieces - a box to hold the motor, a lid for the box, and a clip to attach to the top of the back of someone's clothing
+<img width="570" height="531" alt="CADangle1" src="https://github.com/user-attachments/assets/09bce476-9105-426e-8b06-6bc517db3d1f" />
+<img width="577" height="500" alt="CADangle2" src="https://github.com/user-attachments/assets/a4baada8-32e5-4168-bb48-220616f598ac" />
+<img width="675" height="588" alt="CADangle3" src="https://github.com/user-attachments/assets/b18b4d2a-56d4-4597-8899-22c608e5c67e" />
 
-![CAD View 1](images/CADangle1.png)  
-![CAD View 2](images/CADangle2.png)  
-![CAD View 3](images/CADangle3.png)
+
 ---
 ### works in progress: using breadboard, wiring & microcontroller:
-![Breadboard](images/breadboard.png)  
-![Motor Control Board](images/motor_control_board.png)  
+<img width="685" height="742" alt="breadboard" src="https://github.com/user-attachments/assets/09c03ab1-4466-4d8a-b5d0-703c56326b01" />
+<img width="648" height="616" alt="motor_control_board" src="https://github.com/user-attachments/assets/fcea55a1-3112-45da-941c-72e572476aa2" />
+
 
 ---
 ### gear system
-![Gears](images/gear_system.png)  
+<img width="337" height="567" alt="gear_system" src="https://github.com/user-attachments/assets/c03d8924-99df-459c-a593-de893d487706" />
+
 
 ---
 
@@ -33,3 +36,4 @@ Using a DC motor, several gears, a cord, and a repurposed clip, our mechanism cl
 - Alligator Clip (https://www.officedepot.com/a/products/660706/Office-Depot-Brand-Swivel-Alligator-Clip/?utm_source=google&utm_medium=sag&srsltid=AfmBOooJ8bYqyPSKX_gHirGAV4fKKEsvVFlz0kzU9wKukUvDWGfCS8Ey_HI&region_id=001135&gQT=1)
 
 
+Team: Nisa, Natasha
